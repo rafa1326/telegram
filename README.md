@@ -1,2 +1,4 @@
 # Code Refactor Starter Code
-Basically the goal was to readjust and simplify the html and css code yet maintaining the structure and aesthetic of how the site looks 
+
+Refracting orginal code and creating shorter less repetitive more visually pleasing code while maintaining the same outcome
+
