@@ -6,5 +6,5 @@
 
 #### see here a link for reference.. https://github.com/rafa1326/telegram
 
-##### see below screen of finished project.
-<img width="920" alt="screenshot" src="https://user-images.githubusercontent.com/96085870/155048125-74222502-5699-4563-ab73-9982332e3072.PNG">
+##### see below screen of finished project. file:///C:/Users/User/OneDrive/Desktop/urban-octo-telegram/Develop/assets/images/digital-marketing-meeting.jpg
+
